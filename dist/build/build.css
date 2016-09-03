@@ -126,14 +126,14 @@ h1,
 h2,
 h3 {
   font-family: 'Track';
-  letter-spacing: 1px;
-  word-spacing: 3px;
+  letter-spacing: 2px;
+  word-spacing: 6px;
   color: #eee;
 }
 .pertama,
 .emphatic,
 .emphatic-text {
-  background: #cf000f;
+  background: #36d7b7;
 }
 .semua {
   background: #2f5560;
@@ -161,7 +161,7 @@ h3 {
   color: #fff;
 }
 .socmed {
-  background: #c5eff7;
+  background: #36d7b7;
 }
 .socmed1 li {
   color: #2f426a;
